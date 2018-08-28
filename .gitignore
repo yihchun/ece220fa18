@@ -1,0 +1,11 @@
+*
+!**/
+!**/*.c
+!**/*.h
+!**/*.cpp
+!**/*.hpp
+!**/*.asm
+!**/*.txt
+!**/Makefile
+!.gitignore
+old
